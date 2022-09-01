@@ -37,7 +37,6 @@ body {
   background-position: right 90px;
   background-size: contain;
   background-repeat: no-repeat;
-  /* background-image: url("img/Header-bg@2x.png"); */
   border-bottom-left-radius: 100px;
   background-image: url("img/Contact-bg@2x.png");
 }
